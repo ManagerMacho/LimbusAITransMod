@@ -1,0 +1,67 @@
+{
+  "dataList": [
+    {
+      "key": "NAR_3F_HighDomestic_1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>去渴望吧。有多少欲望，就将其尽数摄取殆尽。</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_HighDomestic_2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>披上吧。然后，毫不吝惜地吞噬吧。</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_HighDomestic_3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>渴望吧。尽情渴望，毫不犹豫地令其枯竭吧。</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_HighDomestic_4",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>渴望吧。如此，你便会被缠绕。</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_Le_Noir_1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>纵能填满，亦不填满；纵能享受，亦当克制。</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_Le_Noir_2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>勿使溢出，遵循秩序而行。</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_Le_Noir_3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>不可违背规律。\n西西弗斯记得汝等所忍受的一切苦痛。</color>"
+        }
+      ]
+    }
+  ]
+}

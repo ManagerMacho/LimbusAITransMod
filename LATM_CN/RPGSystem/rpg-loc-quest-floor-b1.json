@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "key": "Q-1000",
+      "title": "A1：前往地下一层",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "进入地下1层食品层"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "食品层进入对话"
+        }
+      ]
+    },
+    {
+      "key": "Q-1001",
+      "title": "前往地下2层",
+      "description": "获得了布歇为我们烹调的黄金茧。接下来必须寻找下到地下2层的方法。去我们刚才经过的走廊下方的那条路看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往地下2层"
+        }
+      ]
+    },
+    {
+      "key": "Q-1002",
+      "title": "寻找下行扶梯",
+      "description": "来到了到处都是自动扶梯的地方。调查一下自动扶梯，找找哪一部是通往地下二层的自动扶梯吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "调查扶梯"
+        }
+      ]
+    },
+    {
+      "key": "Q-1003",
+      "title": "前往美食广场",
+      "description": "来到了地下一层。地下的景象与地上的卖场看起来大不相同。要找茧的话，去美食广场那种地方看看似乎不错。去地板上画着蜗牛壳的地方看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往美食广场"
+        }
+      ]
+    },
+    {
+      "key": "Q-1004",
+      "title": "追赶副主厨",
+      "description": "遇见了一个叫副主厨的人。那人说自己曾在名叫布歇的人的仓库里见过黄金之茧。追上逃走的副主厨，进一步打听关于黄金之茧的情报吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "追上副主厨"
+        }
+      ]
+    },
+    {
+      "key": "Q-1005",
+      "title": "前往布歇处",
+      "description": "从副主厨那里打听到了地下一层的楼层主管——一个名叫布歇的人。去布歇那里，试着询问获得黄金之茧的方法吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往布歇处"
+        }
+      ]
+    },
+    {
+      "key": "Q-1006",
+      "title": "带来被食者的思维",
+      "description": "要想获得布歇持有的黄金之茧，就必须带来一种名为被食者的思惟的肉。去取得悬挂在新鲜精肉区某处的被食者的思惟，然后交给布歇吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "获取被食者的思惟"
+        }
+      ]
+    },
+    {
+      "key": "Q-1008",
+      "title": "返回自动扶梯房间",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "回扶梯"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "回扶梯对话"
+        }
+      ]
+    },
+    {
+      "key": "Q-1009",
+      "title": "定义自动扶梯",
+      "description": "据贞德所说，我们似乎不该去寻找向下运行的自动扶梯，而是必须去定义自动扶梯。梯子，又或者是丘或鞋。要不要试着告诉默尔索，让他把自动扶梯定义成其中的哪一个呢？",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "将自动扶梯定义为梯子、丘或鞋中的任意一种"
+        }
+      ]
+    },
+    {
+      "key": "Q-1010",
+      "title": "启动自动扶梯",
+      "description": "未使用",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        }
+      ]
+    },
+    {
+      "key": "Q-1011",
+      "title": "乘自动扶梯下去",
+      "description": "未使用",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        }
+      ]
+    }
+  ]
+}

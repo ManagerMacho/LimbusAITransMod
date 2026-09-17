@@ -1,0 +1,64 @@
+{
+  "dataList": [
+    {
+      "id": "rpg_suicidebox_reset_button_text",
+      "content": "库存整理\n(重置)"
+    },
+    {
+      "id": "rpg_suicidebox_reset_confirm_desc",
+      "content": "要进行库存整理吗？\n\n选择后，正在进行的周回记录将被初始化，\n且无法恢复。"
+    },
+    {
+      "id": "rpg_suicidebox_hardreset_button_text",
+      "content": "闭店\n(硬重置)"
+    },
+    {
+      "id": "rpg_suicidebox_hardreset_confirm_desc",
+      "content": "要关店吗？\n\n若选择，所有周回的记录将被初始化，\n且无法恢复。"
+    },
+    {
+      "id": "rpg_suicidebox_main_screen_desc_default",
+      "content": "结束自己的生命，\n等同于向未能理解的生命作出告白。\n那么，你又以什么了结生命，将其献给生命？"
+    },
+    {
+      "id": "rpg_suicidebox_coming_soon",
+      "content": "{0}月{1}日 (KST) 预定更新\nJP"
+    },
+    {
+      "id": "rpg_suicidebox_intro_ab_1",
+      "content": "让一生仅有一次的瞬间，更加鲜明。\n今日也承蒙您使用自杀自动售货机，\n非常感谢。"
+    },
+    {
+      "id": "rpg_suicidebox_intro_ab_2",
+      "content": "本模型为可供家人、朋友、恋人等多人\n共同使用的共同体验型设施。"
+    },
+    {
+      "id": "rpg_suicidebox_intro_ab_3",
+      "content": "大湖遇难、列车相撞、药物过量导致的中毒、\n雷击、低体温症等，部分自杀体验\n无法供您选择。\n希望体验更加丰富多样的顾客，\n请使用单人用的自杀售货机。"
+    },
+    {
+      "id": "rpg_suicidebox_intro_ab_4",
+      "content": "轻松品味那令人战栗的恐惧与刺激。\n请按下下方任意按钮，\n体验特别的死亡。"
+    },
+    {
+      "id": "rpg_suicidebox_pressed_dialog_ab",
+      "content": "孕妇、老年人、身体虚弱者、正在用药者，\n以及患有心血管疾病者，\n请谨慎使用。\n若因勉强使用而发生事故，\n其责任将全部由使用者本人承担。"
+    },
+    {
+      "id": "rpg_suicidebox_enter_notice_condition_b",
+      "content": "- 人格 : 同步化4阶段\n- E.G.O : 幻想解析4阶段"
+    },
+    {
+      "id": "rpg_suicidebox_enter_notice_question_b",
+      "content": "要使用自杀自动贩卖机吗？"
+    },
+    {
+      "id": "rpg_suicidebox_enter_notice_condition_c",
+      "content": "- 人格 : 同步化4阶段\n- E.G.O : 幻想解析4阶段"
+    },
+    {
+      "id": "rpg_suicidebox_enter_notice_question_c",
+      "content": "要使用自杀自动贩卖机吗？"
+    }
+  ]
+}

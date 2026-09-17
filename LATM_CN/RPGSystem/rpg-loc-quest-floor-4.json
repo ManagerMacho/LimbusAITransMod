@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "key": "Q4001",
+      "title": "前往4楼",
+      "description": "带着鲁·诺瓦尔一行交给我们的鉴定评估书，到4楼去看看吧。据说只要拿着这个，鲁·诺瓦尔一行就会热情款待，或许能更轻松地在百货店里四处走动。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "乘坐去往四楼的电梯"
+        }
+      ]
+    },
+    {
+      "key": "Q4002",
+      "title": "巡视4层",
+      "description": "来到了4楼。这里会有什么样的卖场呢？总之先往右走，看看4楼吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "看看4楼"
+        }
+      ]
+    },
+    {
+      "key": "Q4003",
+      "title": "巡视4层2",
+      "description": "从黑派鞋类卖场的店员——独腿那里，听说了能撕裂任何布料的武器。暂且离开黑派的鞋类卖场，去4层剩下的地方转转吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "结束独腿的对话"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "看看4楼",
+          "goalDescription2": "驼背的照明と話す"
+        }
+      ]
+    },
+    {
+      "key": "Q4004",
+      "title": "与家具楼层的主人会面",
+      "description": "来到了一个叫家具楼层的地方。驼背的照明来拜托我，希望我带来适合它自己的衣服。去会会家具楼层的主人吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "和家具楼层的主人对话"
+        }
+      ]
+    },
+    {
+      "key": "Q4005",
+      "title": "给驼背的照明送去新衣服",
+      "description": "家具楼层之主「幸福衣橱」沉默地向我们展示挂在身上的各色物件。它取下了一件合身的衣服。把它送到驼背的照明那里吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "送给驼背的照明新衣服"
+        }
+      ]
+    },
+    {
+      "key": "Q4006",
+      "title": "从幸福衣柜中取出衣服",
+      "description": "看到你把衣服送到了驼背的照明那里，其他家具便开始发泄不满。回到幸福衣柜那里，取出要交给家具们的衣服吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "从幸福衣柜取出衣服"
+        }
+      ]
+    },
+    {
+      "key": "Q4007",
+      "title": "给家具们送衣服",
+      "description": "从幸福衣柜里拿出了几件衣服。这次就把衣服分别交给家具们吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "给挂骨架衣服",
+          "goalDescription2": "给悠闲的皮床衣服",
+          "goalDescription3": "给剥制皮的窗帘衣服",
+          "goalDescription4": "给红色靠垫的凳子衣服",
+          "goalDescription5": "给皮肤沙发衣服",
+          "goalDescription6": "给双子灯衣服"
+        }
+      ]
+    },
+    {
+      "key": "Q4008",
+      "title": "回到幸福衣柜那里",
+      "description": "把衣服全都交给了其他家具。再一次，回到幸福衣柜那里去吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "回到幸福衣柜那里"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "旁观家具们的袭击"
+        }
+      ]
+    },
+    {
+      "key": "Q4013",
+      "title": "向驼背的照明搭话",
+      "description": "连心脏都被剥去的幸福衣柜，已经一动不动了。离开家具楼层前，再试着向驼背的照明搭一次话吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与驼背的照明对话"
+        }
+      ]
+    },
+    {
+      "key": "Q4009",
+      "title": "前往地下",
+      "description": "根据获得的配方，必须从黄金之茧中获取黄金线团。据说黄金之茧能在地下1层找到。在地下1层拿到黄金之茧后，就去地下2层看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "乘坐电梯前往地下一层"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "看看地下一层"
+        }
+      ]
+    }
+  ]
+}
