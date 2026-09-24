@@ -1,0 +1,28 @@
+{
+  "dataList": [
+    {
+      "key": "swarm_lanoir_guard",
+      "displayName": "突进的黑派"
+    },
+    {
+      "key": "swarm_larouge_elite",
+      "displayName": "红派商店管理人"
+    },
+    {
+      "key": "swarm_larouge_sickle_sp",
+      "displayName": "红派员工"
+    },
+    {
+      "key": "swarm_larouge_spa_staff",
+      "displayName": "反抗的红派"
+    },
+    {
+      "key": "swarm_renoir_contemporary",
+      "displayName": "突击的黑派"
+    },
+    {
+      "key": "swarm_renoir_high_domestic_2",
+      "displayName": "突击的黑派"
+    }
+  ]
+}

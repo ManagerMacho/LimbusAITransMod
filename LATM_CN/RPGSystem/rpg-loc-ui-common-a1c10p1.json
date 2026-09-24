@@ -2,15 +2,23 @@
   "dataList": [
     {
       "key": "ReturnToMainUiScene",
-      "text": "要保存探索进度并返回主界面吗？"
+      "text": "要返回玻璃窗吗？\n<color=#ff0000>返回玻璃窗后，现有的探索进度可能会丢失。</color>\n\n※ 探索进度会在任务完成/楼层移动/区域移动时进行自动保存。\n请在返回玻璃窗前确认保存状态。"
     },
     {
       "key": "AskToMoveFloor",
-      "text": "要移动到{0}层吗？"
+      "text": "要移动至{0}F吗？"
     },
     {
       "key": "MoveFloorUiDesc",
-      "text": "要移动到哪一层？"
+      "text": "要移动至哪一层？"
+    },
+    {
+      "key": "FloorMoveUnboughtConfirmDesc",
+      "text": "当前楼层仍有尚未购买的\n道具。\n是否要移动到其他楼层？"
+    },
+    {
+      "key": "FloorMoveUnboughtDontShowAgain",
+      "text": "不再显示弹窗"
     },
     {
       "key": "DialogueSkipConfirmDesc",
@@ -22,11 +30,11 @@
     },
     {
       "key": "AccumulatedExp",
-      "text": "当前累计消耗眼球数"
+      "text": "当前累计消费的眼球数量"
     },
     {
       "key": "RemainExpToNextLevel",
-      "text": "距离下一等级"
+      "text": "到下一评级还有"
     },
     {
       "key": "ItemFilterAll",
@@ -42,11 +50,11 @@
     },
     {
       "key": "ItemFilterBasicAttack",
-      "text": "基本攻击"
+      "text": "基础攻击"
     },
     {
       "key": "ItemFilterAdditionalAttack",
-      "text": "追加攻击"
+      "text": "额外攻击"
     },
     {
       "key": "ItemFilterPrisonerEffect",
@@ -54,7 +62,7 @@
     },
     {
       "key": "ItemFilterEtc",
-      "text": "其他"
+      "text": "杂项"
     },
     {
       "key": "Item_QuestMark",
@@ -66,7 +74,7 @@
     },
     {
       "key": "rpg_quest_tag_dialogue",
-      "text": "会话"
+      "text": "对话"
     },
     {
       "key": "rpg_quest_tag_battle",
@@ -98,7 +106,7 @@
     },
     {
       "key": "Quest_Tag_Reward",
-      "text": "报酬"
+      "text": "奖励"
     },
     {
       "key": "Shop_Title",
@@ -110,11 +118,11 @@
     },
     {
       "key": "Shop_Category_Artifact",
-      "text": "遗物"
+      "text": "造物"
     },
     {
       "key": "Shop_Category_Etc",
-      "text": "其他"
+      "text": "杂项"
     },
     {
       "key": "Shop_Button_Buy",
@@ -130,7 +138,7 @@
     },
     {
       "key": "Shop_Item_Owned",
-      "text": "持有中"
+      "text": "已拥有"
     },
     {
       "key": "Shop_Item_NotForSale",
@@ -138,15 +146,15 @@
     },
     {
       "key": "Shop_Empty_Item_List",
-      "text": "没有可显示的商品。"
+      "text": "没有显示的商品。"
     },
     {
       "key": "Log_ItemAcquired",
-      "text": "获得道具：{0} ×{1}"
+      "text": "获得物品：{0} x{1}"
     },
     {
       "key": "Log_ItemAcquiredKeyItem",
-      "text": "获得道具: <color=#{2}>{0} ×{1}</color>"
+      "text": "获得物品：<color=#{2}>{0} x{1}</color>"
     },
     {
       "key": "Log_CurrencyEarned",
@@ -154,59 +162,55 @@
     },
     {
       "key": "Log_Purchased",
-      "text": "购买: {0} ×{1} (消耗{2})"
+      "text": "购买：{0} x{1} (花费{2})"
     },
     {
       "key": "Log_PurchasedKeyItem",
-      "text": "购买：<color=#{3}>{0} ×{1}</color> (消耗{2})"
+      "text": "购买：<color=#{3}>{0} x{1}</color> (花费{2})"
     },
     {
       "key": "Log_NpcInteracted",
-      "text": "对话结束了。"
+      "text": "结束对话。"
     },
     {
       "key": "Log_ProjectileRemoved",
-      "text": "除去投射物: {0}"
+      "text": "移除的投射物：{0}"
     },
     {
       "key": "Log_ChoiceSelected",
-      "text": "选择: {0}"
+      "text": "选择：{0}"
     },
     {
       "key": "Log_QuestAcquired",
-      "text": "<color=#{1}>任务触发: {0}</color>"
+      "text": "<color=#{1}>任务开始：{0}</color>"
     },
     {
       "key": "Log_QuestCompleted",
-      "text": "任务完成: {0}"
+      "text": "任务完成：{0}"
     },
     {
       "key": "Log_QuestGoalProgress",
-      "text": "目标进度: {0}"
-    },
-    {
-      "key": "Log_PlayerHit",
-      "text": "被击：{0}"
+      "text": "目标进度：{0}"
     },
     {
       "key": "Log_BattleResultSync",
-      "text": "战斗结果反映({0}): HP {1}/{2}, MP {3}/{4}"
+      "text": "战斗结果反馈（{0}）：HP {1}/{2}，MP {3}/{4}"
     },
     {
       "key": "Log_BattleDefeatHp",
-      "text": "战斗败北: HP {0}"
+      "text": "战斗失败：HP {0}"
     },
     {
       "key": "Log_CheatVitals",
-      "text": "作弊: {0}"
+      "text": "Cheat: {0}"
     },
     {
       "key": "Log_EventEffectVitals",
-      "text": "活动效果: {0}"
+      "text": "事件效果：{0}"
     },
     {
       "key": "Log_RecruitFullRecover",
-      "text": "同伴加入({0}): HP/精神力全满"
+      "text": "同伴加入（{0}）：体力/理智值全部恢复"
     },
     {
       "key": "Log_VitalsNoChange",
@@ -214,23 +218,11 @@
     },
     {
       "key": "Log_NpcDefeated",
-      "text": "击破{0} (伤害{1})"
-    },
-    {
-      "key": "Log_NpcDefeatedWeakness",
-      "text": "击破{0} (弱点攻击伤害{1})"
-    },
-    {
-      "key": "Log_DamageDealt",
-      "text": "对{0}造成伤害 {1}"
-    },
-    {
-      "key": "Log_DamageDealtWeakness",
-      "text": "对{0}弱点攻击伤害 {1}"
+      "text": "{0}被击败（{1}点伤害）"
     },
     {
       "key": "Log_PlayerDead",
-      "text": "玩家死亡"
+      "text": "玩家阵亡"
     },
     {
       "key": "Log_BattleEntered",
@@ -246,27 +238,27 @@
     },
     {
       "key": "Log_RestSpotHealed",
-      "text": "体力已完全恢复"
+      "text": "体力已全部恢复"
     },
     {
       "key": "Log_EscapeBlocked",
-      "text": "现在无法离开这里"
+      "text": "现在不能从这里出去。"
     },
     {
       "key": "Log_WardenAppeared",
-      "text": "冰冷的凶险感，正逐渐收紧过来。"
+      "text": "一股冰冷的不祥之感正逐渐迫近而来。"
     },
     {
       "key": "Log_SuicideBlocked",
-      "text": "看来，这样是逃不掉的。"
+      "text": "这样是逃不掉的。"
     },
     {
       "key": "ProgressPopup_Title",
-      "text": "西西弗斯百货店"
+      "text": "西西弗百货"
     },
     {
       "key": "ProgressPopup_Suicide",
-      "text": "用手甲\n自杀"
+      "text": "用护手\n自杀"
     },
     {
       "key": "ProgressPopup_EnemyAttackIndication",
@@ -286,19 +278,19 @@
     },
     {
       "key": "RestorePopup_Checking",
-      "text": "确认中…"
+      "text": "确认中……"
     },
     {
       "key": "RestorePopup_FoundNoQuest",
-      "text": "有可复原的自动保存点。"
+      "text": "有可以恢复的自动存档点。"
     },
     {
       "key": "RestoreCompare_ColCurrent",
-      "text": "最后的存档"
+      "text": "最终存档"
     },
     {
       "key": "RestoreCompare_ColBackup",
-      "text": "复原"
+      "text": "恢复"
     },
     {
       "key": "RestoreCompare_NoQuest",
@@ -310,27 +302,27 @@
     },
     {
       "key": "RestoreCompare_SavedAt",
-      "text": "存档时间 : {0}"
+      "text": "存档时间：{0}"
     },
     {
       "key": "RestorePopup_None",
-      "text": "没有可以返回的自动保存点。"
+      "text": "没有可以恢复的自动存档点。"
     },
     {
       "key": "RestorePopup_LoadFailed",
-      "text": "无法确认自动保存的信息。"
+      "text": "无法确认自动存档的信息。"
     },
     {
       "key": "RestorePopup_Confirm",
-      "text": "此地点之后的进度将会丢失。无法恢复。\n要恢复存档吗？"
+      "text": "此地点之后的进度将会丢失。无法复原。\n要恢复存档吗？"
     },
     {
       "key": "RestorePopup_Running",
-      "text": "正在复原中…"
+      "text": "恢复中……"
     },
     {
       "key": "RestorePopup_NeedRestart",
-      "text": "已恢复。此后的进度将不会被保存，请重启游戏。"
+      "text": "已恢复。之后的进度将不会被保存，请重启游戏。"
     },
     {
       "key": "RestorePopup_Close",
@@ -338,19 +330,27 @@
     },
     {
       "key": "Inventory_Empty",
-      "text": "没有持有的物品。"
+      "text": "没有持有的道具。"
     },
     {
       "key": "Inventory_NotSelected",
-      "text": "未选择物品。"
+      "text": "未选择道具。"
     },
     {
       "key": "LogPopup_Title",
-      "text": "全部日志"
+      "text": "所有记录"
+    },
+    {
+      "key": "LogPopup_Tab_Story",
+      "text": "故事日志"
+    },
+    {
+      "key": "LogPopup_Tab_System",
+      "text": "系统日志"
     },
     {
       "key": "Setting_Tab_Sisyphus",
-      "text": "西西弗斯"
+      "text": "西西弗"
     },
     {
       "key": "Setting_Sisyphus_UiSetting",
@@ -358,11 +358,51 @@
     },
     {
       "key": "Setting_Sisyphus_KeyManual",
-      "text": "快捷键手册"
+      "text": "快捷键指南"
     },
     {
       "key": "Setting_Sisyphus_CensorDeadscene",
-      "text": "死亡场景的限制"
+      "text": "死亡场景遮挡"
+    },
+    {
+      "key": "Setting_Sisyphus_LightMode",
+      "text": "亮色模式"
+    },
+    {
+      "key": "Setting_Sisyphus_Brightness",
+      "text": "亮度调整"
+    },
+    {
+      "key": "Setting_Sisyphus_BrightnessCeiling",
+      "text": "亮度上限"
+    },
+    {
+      "key": "Setting_Sisyphus_MoveAssist",
+      "text": "移动方向补正"
+    },
+    {
+      "key": "Setting_Sisyphus_RunStartDelay",
+      "text": "奔跑限制时间"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadWalkStart",
+      "text": "行走起始半径"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadRunKeep",
+      "text": "奔跑维持半径"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadRunStart",
+      "text": "奔跑开始半径"
+    },
+    {
+      "key": "Setting_Sisyphus_TurnAssist",
+      "text": "移动中转向辅助"
+    },
+    {
+      "key": "Setting_Sisyphus_RunStartDelayValue",
+      "text": "{0}秒"
     },
     {
       "key": "Setting_Sisyphus_Move",
@@ -378,7 +418,7 @@
     },
     {
       "key": "Setting_Sisyphus_GauntletSuicide",
-      "text": "用手甲自杀"
+      "text": "用护手自杀"
     },
     {
       "key": "Setting_Sisyphus_Attack",
@@ -394,31 +434,31 @@
     },
     {
       "key": "Setting_Sisyphus_Run",
-      "text": "冲刺"
+      "text": "奔跑"
     },
     {
       "key": "Setting_Sisyphus_LockedNeedItem",
-      "text": "※未解锁，需要购买道具"
+      "text": "※ 未解锁，需要购买道具"
     },
     {
       "key": "Setting_Sisyphus_LanternToggle",
-      "text": "灯笼ON/OFF"
+      "text": "灯 ON/OFF"
     },
     {
       "key": "Setting_Sisyphus_CloseWindowOrSetting",
-      "text": "关闭打开的窗口 / 设置"
+      "text": "关闭当前窗口 / 设置"
     },
     {
       "key": "Setting_Sisyphus_Inventory",
-      "text": "物品栏"
+      "text": "背包"
     },
     {
       "key": "Setting_Sisyphus_DialogueNext",
-      "text": "进行・确定选项"
+      "text": "继续 · 选择选项"
     },
     {
       "key": "Setting_Sisyphus_DialogueChoice",
-      "text": "对话中选择选项"
+      "text": "选择对话选项"
     },
     {
       "key": "Setting_Sisyphus_DialogueSkip",
@@ -426,11 +466,11 @@
     },
     {
       "key": "Setting_Sisyphus_FullLog",
-      "text": "全部日志"
+      "text": "所有记录"
     },
     {
       "key": "Setting_Sisyphus_CreditFastForward",
-      "text": "制作人员名单快进"
+      "text": "快进制作人员名单"
     },
     {
       "key": "Setting_Sisyphus_CreditSkip",
@@ -438,7 +478,7 @@
     },
     {
       "key": "Setting_Sisyphus_QuestNavigation",
-      "text": "任务指引箭头"
+      "text": "任务引导箭头"
     },
     {
       "key": "Setting_Sisyphus_TabDefault",
@@ -450,23 +490,23 @@
     },
     {
       "key": "WardenBigNail",
-      "text": "看守的大钉"
+      "text": "看守的长钉"
     },
     {
       "key": "FormationUI_AskToBack",
-      "text": "若通过返回操作退出战斗，将会败北。"
+      "text": "通过返回功能离开战斗将视为失败。"
     },
     {
       "key": "Setting_Sisyphus_Manual",
-      "text": "手册"
+      "text": "指南"
     },
     {
       "key": "Setting_Sisyphus_BattleStatus",
-      "text": "影界的情况"
+      "text": "阴影界情况"
     },
     {
       "key": "TheaterTitle",
-      "text": "上映影院"
+      "text": "电影院"
     },
     {
       "key": "SettingTitle",
@@ -490,19 +530,19 @@
     },
     {
       "key": "Setting_Sisyphus_MobileLantern",
-      "text": "提灯"
+      "text": "灯"
     },
     {
       "key": "Setting_Sisyphus_MobileUnlockNotice",
-      "text": "※显示的功能可通过购买道具解锁。"
+      "text": "以※标记的功能需要购入道具才能解锁。"
     },
     {
       "key": "Rpg_Menu_Status_Ego_Resources_Owned",
-      "text": "E.G.O资源状况"
+      "text": "现有E.G.O资源"
     },
     {
       "key": "Rpg_Menu_Status_Character_Mental_Status",
-      "text": "罪人的精神力状况"
+      "text": "罪人的当前理智值"
     },
     {
       "key": "Rpg_Move_Floor_Ui_Current_Floor",

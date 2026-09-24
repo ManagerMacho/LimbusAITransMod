@@ -1,0 +1,20 @@
+{
+  "dataList": [
+    {
+      "key": "swarm_lanoir_fanatic_3f",
+      "displayName": "黑派店员[阳光]"
+    },
+    {
+      "key": "swarm_larouge_spa_staff_3f",
+      "displayName": "红派 店员[阳光]"
+    },
+    {
+      "key": "swarm_leather_scarecrow",
+      "displayName": "皮革父辈"
+    },
+    {
+      "key": "swarm_star",
+      "displayName": "旋转风铃"
+    }
+  ]
+}

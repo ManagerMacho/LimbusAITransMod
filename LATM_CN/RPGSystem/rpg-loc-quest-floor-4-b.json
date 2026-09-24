@@ -1,0 +1,353 @@
+{
+  "dataList": [
+    {
+      "key": "Q4001",
+      "title": "移动至制鞋馆",
+      "description": "来到了4层。沿着通道前往制鞋馆吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "移动至制鞋馆"
+        }
+      ]
+    },
+    {
+      "key": "Q4002",
+      "title": "前往制鞋馆",
+      "description": "我们给那个跟着我们的孩子起了个名字，叫“普里”。虽然似乎还是对我们有些抗拒……总之，先像上次一样去4层的制鞋馆看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往制鞋馆"
+        }
+      ]
+    },
+    {
+      "key": "Q4002A",
+      "title": "击杀四脚人",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        }
+      ]
+    },
+    {
+      "key": "Q4003",
+      "title": "击杀独腿",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        }
+      ]
+    },
+    {
+      "key": "Q4003A",
+      "title": "红派 制鞋馆 NPC A",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与制鞋馆剩下的人对话"
+        }
+      ]
+    },
+    {
+      "key": "Q4003B",
+      "title": "前往家具馆",
+      "description": "在红派制鞋馆遇到的多萝西娅说想找到回家的方法，并请求我们帮她取得心脏残片。据说只要帮她，她就会告诉我们前往5层的方法。为了取得心脏残片，去家具馆看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往家具馆的快乐衣橱"
+        }
+      ]
+    },
+    {
+      "key": "Q4004",
+      "title": "对驼背落地灯搭话",
+      "description": "我们向家具馆里的快乐衣橱搭了话，但那家伙依旧一言不发。我们从那家伙身上取下了几样东西。去家具馆里的驼背落地灯那里看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "对驼背落地灯搭话"
+        }
+      ]
+    },
+    {
+      "key": "Q4005",
+      "title": "驼背落地灯的新衣[未使用]",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "把衣服拿给驼背落地灯"
+        }
+      ]
+    },
+    {
+      "key": "Q4006",
+      "title": "返回快乐衣橱",
+      "description": "把从快乐衣橱取来的衣服递给了驼背落地灯。其他家具也争先恐后地要求带些能装扮自己的衣服来。回快乐衣橱那儿去吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "返回快乐衣橱"
+        }
+      ]
+    },
+    {
+      "key": "Q4007",
+      "title": "把衣服交给家具们",
+      "description": "这一次，快乐衣橱也毫不吝惜地交出了自己拥有的东西。把衣服转交给家具们吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "把衣服交给骨挂",
+          "goalDescription2": "给悠闲的皮革床递衣服",
+          "goalDescription3": "将衣服交给被制成标本的皮革窗帘",
+          "goalDescription4": "给红色坐垫凳递衣服",
+          "goalDescription5": "把衣服交给皮肤沙发",
+          "goalDescription6": "将衣服转交给双胞胎目灯"
+        }
+      ]
+    },
+    {
+      "key": "Q4008",
+      "title": "向快乐衣橱询问能否获得心脏残片",
+      "description": "已满足所有家具的请求。去向快乐衣橱问问，能否得到心脏残片吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "向快乐衣橱询问能否获得心脏残片"
+        }
+      ]
+    },
+    {
+      "key": "Q4008A",
+      "title": "家具的袭击",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "目睹家具们的袭击"
+        }
+      ]
+    },
+    {
+      "key": "Q4013",
+      "title": "查看快乐衣橱的残骸",
+      "description": "家具们胡乱撕扯着快乐衣橱，最终彼此争斗，纷纷损毁。查看快乐衣橱的残骸吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "查看快乐衣橱的残骸"
+        }
+      ]
+    },
+    {
+      "key": "Q4021",
+      "title": "前往红派制鞋馆门店",
+      "description": "黑派制鞋馆的事似乎已经办完了。去下面的红派制鞋馆看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往红派制鞋馆门店"
+        }
+      ]
+    },
+    {
+      "key": "Q4022",
+      "title": "返回红派的制鞋馆",
+      "description": "从快乐衣橱那里获得了心脏残片。回到红派的制鞋馆，将心脏交给多罗泰娅吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "返回红派的制鞋馆"
+        }
+      ]
+    },
+    {
+      "key": "Q4023",
+      "title": "试着跟随多萝西娅",
+      "description": "将心脏残片交给了多萝西娅。那家伙说会告诉我们前往5层的方法。就跟着那家伙引领的地方去看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "试着跟随多萝西娅"
+        }
+      ]
+    },
+    {
+      "key": "Q4023A",
+      "title": "墙上出现的洞",
+      "description": "墙上出现了一个洞。靠近确认一下吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "确认出现的孔洞"
+        }
+      ]
+    },
+    {
+      "key": "Q4023B",
+      "title": "通过墙上出现的入口进入内部",
+      "description": "多萝西娅把两只鞋一碰，墙上便出现了一个通往某处的入口。进去看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "通过墙上出现的入口进入内部"
+        }
+      ]
+    },
+    {
+      "key": "Q4023C",
+      "title": "追赶异想体",
+      "description": "进去的地方是一个叫迷途儿童守护室的场所。异想体出现，带走了多萝西娅。追上去吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "追赶异想体"
+        }
+      ]
+    },
+    {
+      "key": "Q4023D",
+      "title": "查看异想体残骸",
+      "description": "击败了异想体。查看残骸吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "查看异想体残骸"
+        }
+      ]
+    },
+    {
+      "key": "Q4023E",
+      "title": "查看异想体残骸",
+      "description": "一同被拖来的人倒下了。去看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        },
+        {
+          "index": 1,
+          "goalDescription1": ""
+        }
+      ]
+    },
+    {
+      "key": "Q4024",
+      "title": "去其他卖场看看",
+      "description": "布伊获得了一双很棒的鞋子。4层似乎还有尚未造访的店铺。去尚未造访的店铺看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "去其他卖场看看",
+          "goalDescription2": "试着与假房馆的其他员工交谈"
+        }
+      ]
+    },
+    {
+      "key": "Q4024A",
+      "title": "调查红派加邦馆的墙壁",
+      "description": "直接调查墙壁吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "调查墙壁"
+        }
+      ]
+    },
+    {
+      "key": "Q4024B",
+      "title": "隐藏之物",
+      "description": "藏在墙后的东西露出了真面目。来回答该如何处置它吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "决定如何处置勒内。"
+        }
+      ]
+    },
+    {
+      "key": "Q4024C",
+      "title": "决定如何处置勒内。",
+      "description": "就看着既定的处置结束吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "决定如何处置勒内。"
+        }
+      ]
+    },
+    {
+      "key": "Q4025",
+      "title": "去其他卖场看看",
+      "description": "红派箱包馆的事已经办完了。去别的店看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "去其他卖场看看"
+        }
+      ]
+    },
+    {
+      "key": "Q4025A",
+      "title": "收集黄金材料",
+      "description": "黑派的风笛设计师请求收集黄金材料。如果答应此人的请求，或许会告知通往5层的扶梯位置。黄金材料可以从人台那里获得。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "获得黄金纽扣",
+          "goalDescription2": "获取黄金牙齿",
+          "goalDescription3": "获得黄金头发"
+        }
+      ]
+    },
+    {
+      "key": "Q4025B",
+      "title": "返回黑派风笛设计师处",
+      "description": "黄金材料已经全部收集齐了。回去找设计师搭话吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "返回黑派风笛设计师处"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "与第一件杰作搭话",
+          "goalDescription2": "与第二件杰作搭话",
+          "goalDescription3": "与第三件杰作搭话"
+        }
+      ]
+    },
+    {
+      "key": "Q4025C",
+      "title": "设计师的选择",
+      "description": "材料は全て集まった。デザイナーの選択を見守ろう。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "见证设计师的选择"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "见证设计师的选择直到最后"
+        }
+      ]
+    },
+    {
+      "key": "Q4026",
+      "title": "乘坐通往5层的扶梯",
+      "description": "制鞋馆的事已经办完了。向通往5楼的扶梯走去吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "乘坐通往5层的扶梯"
+        }
+      ]
+    }
+  ]
+}

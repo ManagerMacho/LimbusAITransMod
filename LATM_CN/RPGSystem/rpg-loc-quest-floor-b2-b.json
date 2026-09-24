@@ -1,0 +1,180 @@
+{
+  "dataList": [
+    {
+      "key": "Q-2000",
+      "title": "掩护 - 抵达地下2层",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "地下2层纺纱厂进入用"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "纺织厂过场"
+        }
+      ]
+    },
+    {
+      "key": "Q-2000A",
+      "title": "遮蔽 - 针仔的对话部分",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "排队的针仔在对话"
+        }
+      ]
+    },
+    {
+      "key": "Q-2001",
+      "title": "地下2层 查看",
+      "description": "抵达了地下二层。能看到一条等待黄金染料的密集队伍。去和上次与我们交易过的那个叫赤身的家伙搭话吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与赤身搭话"
+        }
+      ]
+    },
+    {
+      "key": "Q-2002",
+      "title": "与赤身搭话",
+      "description": "抵达了地下二层。能看到一条等待黄金染料的密集队伍。去和上次与我们交易过的那个叫赤身的家伙搭话吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与赤身搭话"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "击退扑来的黑派群"
+        },
+        {
+          "index": 2,
+          "goalDescription1": "战斗后的情况整理"
+        }
+      ]
+    },
+    {
+      "key": "Q-2003",
+      "title": "前往染色室",
+      "description": "黑派们开始扑了上来。总之，得先找到继续往地下深入的办法。去问问染色室的调色板下去的路吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往染色室"
+        }
+      ]
+    },
+    {
+      "key": "Q-2004",
+      "title": "前往染色室",
+      "description": "黑派们开始扑了上来。总之，得先找到继续往地下深入的办法。去问问染色室的调色板下去的路吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往染色室"
+        }
+      ]
+    },
+    {
+      "key": "Q-2004A",
+      "title": "前往线团之巢",
+      "description": "调色板似乎想要地下2层的楼层经理所持有的五颜六色的线团。为了满足调色板的请求，前往线团之巢吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往线团之巢"
+        }
+      ]
+    },
+    {
+      "key": "Q-2005",
+      "title": "击杀黑派",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "击杀黑派"
+        }
+      ]
+    },
+    {
+      "key": "Q-2006",
+      "title": "击杀黑派 2",
+      "description": "黑派不断挡路。一边击杀他们，一边继续前进吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "继续击杀黑派"
+        }
+      ]
+    },
+    {
+      "key": "Q-2007",
+      "title": "继续前往线团之巢",
+      "description": "挡路的黑派已全部击杀。现在，抵达线团之巢吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "继续前往线团之巢"
+        }
+      ]
+    },
+    {
+      "key": "Q-2008",
+      "title": "与地下2层楼层经理搭话",
+      "description": "抵达了线团之巢。去和地下2层的楼层经理搭话吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与地下2层楼层经理搭话"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "击杀地下2层楼层经理"
+        },
+        {
+          "index": 2,
+          "goalDescription1": "获得彩色线团"
+        }
+      ]
+    },
+    {
+      "key": "Q-2009",
+      "title": "将线团交给调色板",
+      "description": "从地下2层的楼层经理那里获得了五颜六色的线团。现在回到染色室，把五颜六色的线团交给调色板吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "将线团交给调色板"
+        }
+      ]
+    },
+    {
+      "key": "Q-2010",
+      "title": "前往地下3层扶梯",
+      "description": "调色板遵守了约定。它告诉了我们通往地下3层的扶梯位置。去往地下3层的扶梯看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往地下3层扶梯"
+        }
+      ]
+    },
+    {
+      "key": "Q-2010A",
+      "title": "下到地下3层",
+      "description": "抵达了通往地下三层的扶梯。去地下三层看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "下到地下3层"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "地下3层 参观"
+        }
+      ]
+    }
+  ]
+}
